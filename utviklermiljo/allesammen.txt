@@ -1,0 +1,13 @@
+1) prosessor (navn og type, se i systeminnstillingene)
+2) størrelse på tilgjengelig minne (Random Access Memory, også kalt primært minne) 
+3) operativsystemet
+4) versjon av operativsystemet
+5) navn av programmet for å kunne utføre kommandoer fra kommandolinje (eksempler macOS Terminal, MSWin10 Powershell/Git Bash/cmd eller lignende)
+6) versjon av programmet fra punkt 5
+7) versjon av git klient-applikasjonen installert
+8) navn på nettleserapplikasjonen installert (vi anbefaler at dere bruker Google Chrome)
+9) versjon av nettleserapplikasjonen installert fra punkt 8
+10) navn på teksteditor som dere skal bruke (IntelliJ IDEA er anbefalt)
+11) versjon på teksteditor fra punkt 10
+12) lenken (URL) til deres konto i Github:
+
